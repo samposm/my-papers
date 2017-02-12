@@ -1,6 +1,11 @@
 #!/usr/bin/python3
 
-papersfile = 'papers.txt'
+import sys
+
+infile = sys.argv[1]
+
+tag=''
+if infile == 'book-chapters.txt': tag='c'
 
 class Paper:
     def __init__(self,s,n):
@@ -14,7 +19,7 @@ class Paper:
         if (len(ss) >= 4): self.link = ss[3].rstrip()
         if (len(ss) >= 5): self.pdf  = ss[4].rstrip()
     def html(self):
-        s  = '<tr><td><div class=num>' + self.n + '</div>\n'
+        s  = '<tr><td><div class=num>' + tag + self.n + '</div>\n'
         if self.link != None:
             s += '<a href="' + self.link + '">link</a><br>\n'
         if self.pdf != None:
@@ -26,7 +31,7 @@ class Paper:
         s += '</td></tr>\n'
         return s
 
-with open(papersfile, 'r') as f: p1 = f.read()
+with open(infile, 'r') as f: p1 = f.read()
 p2 = p1.split('\n\n\n')
 l2 = len(p2)
 p3 = [Paper(p,n) for p,n in zip(p2,range(l2,0,-1))]

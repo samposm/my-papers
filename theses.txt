@@ -3,7 +3,7 @@ S. Smolander
 Radiative transfer, interception and scattering in coniferous forests: models 
 and applications for production ecology and remote sensing
 
-<a href="http://www.dissertationesforestales.fi/article/1805">Dissertationes Forestales 22<a>.
+<a href="http://www.dissertationesforestales.fi/article/1805">Dissertationes Forestales 22</a>.
 PhD Thesis. Department of Mathematics and Statistics, University of Helsinki (2006)
 
 https://www.cs.helsinki.fi/u/ssmoland/papers/thesis/

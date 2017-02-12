@@ -6,6 +6,8 @@ infile = sys.argv[1]
 
 tag=''
 if infile == 'book-chapters.txt': tag='c'
+if infile == 'reports.txt': tag='r'
+if infile == 'theses.txt': tag='t'
 
 class Paper:
     def __init__(self,s,n):

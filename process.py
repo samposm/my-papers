@@ -37,7 +37,7 @@ def process_file(x):
     p2 = p1.split('\n\n\n')
     numbering = range(len(p2),0,-1) # from len down to 1
     p3 = [Paper(p,n,tag) for p,n in zip(p2,numbering)]
-    header = '<tr><th colspan=2><h2>' + title + '</h2></th></tr>\n'
+    header = '<tr><th colspan=2>' + title + '</th></tr>\n'
     print(header)
     [print(p.html()) for p in p3]
 

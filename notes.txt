@@ -1,0 +1,6 @@
+2003
+(Errata: On page 367, in the line following Eq. 9, &omega;<sub>L</sub>
+should be leaf scattering coefficient, not reflectance.)
+
+2001
+(Errata: On page 799 some units are wrong. Both kJ and KJ should always be MJ.)

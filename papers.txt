@@ -1,0 +1,261 @@
+L. Zhou, R. Gierens, A. Sogachev, D. Mogensen, J. Ortega, J. N. Smith,
+P. C. Harley, A. J. Prenni, E. J. T. Levin, A. Turnipseed, A. Rusanen,
+S. Smolander, A. B. Guenther, M. Kulmala, T. Karl and M. Boy
+
+Contribution from biogenic organic compounds to particle growth during 
+the 2010 BEACHON-ROCS campaign in a Colorado temperate needle leaf 
+forest
+
+Atmospheric Chemistry and Physics 15: 8643-8656 (2015)
+
+http://www.atmos-chem-phys.net/15/8643/2015/acp-15-8643-2015.html
+
+http://www.atmos-chem-phys.net/15/8643/2015/acp-15-8643-2015.pdf
+
+
+D. Mogensen, R. Gierens, J. N. Crowley, P. Keronen, S. Smolander,
+A. Sogachev, A. C. Nölscher, L. Zhou, M. Kulmala, M. J. Tang, J. Williams
+and M. Boy
+
+Simulations of atmospheric OH, O3 and NO3 reactivities within and above 
+the boreal forest
+
+Atmospheric Chemistry and Physics 15: 3909-3932 (2015)
+
+http://www.atmos-chem-phys.net/15/3909/2015/acp-15-3909-2015.html
+
+http://www.atmos-chem-phys.net/15/3909/2015/acp-15-3909-2015.pdf
+
+
+N. Babkovskaia, M. Boy, S. Smolander, S. Romakkaniemi, Ü. Rannik and M. Kulmala
+
+A study of aerosol activation at the cloud edge with high resolution numerical simulations
+
+Atmospheric Research 153: 49-58 (2015)
+
+http://www.sciencedirect.com/science/article/pii/S0169809514002804
+
+
+S. Smolander, Q. He, D. Mogensen, L. Zhou, J. Bäck, T. Ruuskanen, S. Noe,
+A. Guenther, H. Aaltonen, M. Kulmala and M. Boy
+
+Comparing three vegetation monoterpene emission models to measured gas 
+concentrations with a model of meteorology, air chemistry and chemical 
+transport
+
+Biogeosciences 11: 5425-5443 (2014(
+
+http://www.biogeosciences.net/11/5425/2014/bg-11-5425-2014.html
+
+http://www.biogeosciences.net/11/5425/2014/bg-11-5425-2014.pdf
+
+
+L. Zhou, T. Nieminen, D. Mogensen, S. Smolander, A. Rusanen, M. Kulmala and M. Boy
+
+SOSAA – A new model to simulate the concentrations of organic vapours, 
+sulphuric acid and aerosols inside the ABL – Part 2: Aerosol dynamics 
+and one case study at a boreal forest site
+
+Boreal Environment Research 19 (suppl. B): 237-256 (2014)
+
+http://www.borenv.net/BER/ber19B.htm#237
+
+http://www.borenv.net/BER/pdfs/ber19/ber19B-237.pdf
+
+
+J.C. Acosta Navarro, S. Smolander, H. Struthers, E. Zorita, A.M.L. Ekman,
+J.O. Kaplan, A. Guenther, A. Arneth and I. Riipinen
+
+Global emissions of terpenoid VOCs from terrestrial vegetation in the 
+last millennium
+
+Journal of Geophysical Research: Atmospheres 119: 6867-6885 (2014)
+
+http://onlinelibrary.wiley.com/doi/10.1002/2013JD021238/abstract
+
+
+M. Boy, D. Mogensen, S. Smolander, L. Zhou, T. Nieminen, P. Paasonen,
+C. Plass-Dülmer, M. Sipilä, T. Petäjä, L. Mauldin, H. Berresheim and M. Kulmala
+
+Oxidation of SO2 by stabilized Criegee intermediate (sCI) 
+radicals as a crucial source for atmospheric sulfuric acid 
+concentrations
+
+Atmospheric Chemistry and Physics 13: 3865-3879 (2013)
+
+http://www.atmos-chem-phys.net/13/3865/2013/acp-13-3865-2013.html
+
+http://www.atmos-chem-phys.net/13/3865/2013/acp-13-3865-2013.pdf
+
+
+D. Mogensen, S. Smolander, A. Sogachev, L. Zhou, V. Sinha, A. Guenther,
+J. Williams, T. Nieminen, M. K. Kajos, J. Rinne, M. Kulmala and M. Boy
+
+Modelling atmospheric OH-reactivity in a boreal forest ecosystem
+
+Atmospheric Chemistry and Physics 11: 9709-9719 (2011)
+
+http://www.atmos-chem-phys.net/11/9709/2011/acp-11-9709-2011.html
+
+http://www.atmos-chem-phys.net/11/9709/2011/acp-11-9709-2011.pdf
+
+
+T. Kurtén, L. Zhou, R. Makkonen, J. Merikanto, P. Räisänen, M. Boy, N. 
+Richards, A. Rap, S. Smolander, A. Sogachev, A. Guenther, G. W. Mann, K. 
+Carslaw and M. Kulmala
+
+Large methane releases lead to strong aerosol forcing and reduced cloudiness
+
+Atmospheric Chemistry and Physics 11: 6961-6969 (2011)
+
+http://www.atmos-chem-phys.net/11/6961/2011/acp-11-6961-2011.html
+
+http://www.atmos-chem-phys.net/11/6961/2011/acp-11-6961-2011.pdf"
+
+
+J. Lauros, A. Sogachev, S. Smolander, H. Vuollekoski, S.-L. Sihto,
+I. Mammarella, L. Laakso, Ü. Rannik, and M. Boy
+
+Particle concentration and flux dynamics in the atmospheric boundary 
+layer as the indicator of formation mechanism
+
+Atmospheric Chemistry and Physics 11: 5591-5601 (2011)
+
+http://www.atmos-chem-phys.net/11/5591/2011/acp-11-5591-2011.html
+
+http://www.atmos-chem-phys.net/11/5591/2011/acp-11-5591-2011.pdf
+
+
+M. Boy, A. Sogachev, J. Lauros, L. Zhou, A. Guenther and S. Smolander
+
+SOSA – a new model to simulate the concentrations of organic vapours and 
+sulphuric acid inside the ABL – Part 1: Model description and initial evaluation
+
+Atmospheric Chemistry and Physics 11: 43-51 (2011)
+
+http://www.atmos-chem-phys.net/11/43/2011/acp-11-43-2011.html
+
+http://www.atmos-chem-phys.net/11/43/2011/acp-11-43-2011.pdf
+
+
+S. Launiainen, T. Vesala, M. Mölder, I. Mammarella, S. Smolander, 
+Ü. Rannik, P. Kolari, P. Hari, A. Lindroth and G.G. Katul
+
+Vertical variability and effect of stability on turbulence 
+characteristics down to the floor of a pine forest
+
+Tellus 59B: 919-936 (2007)
+
+http://www.blackwell-synergy.com/doi/abs/10.1111/j.1600-0889.2007.00313.x
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/turbulence_pine_forest.pdf
+
+
+T. Vesala, J. Huotari, Ü. Rannik, T. Suni, S. Smolander, A. Sogachev, 
+S. Launiainen and A. Ojala
+
+Eddy covariance measurements of carbon exchange and latent and sensible
+heat fluxes over a boreal lake for a full open-water period
+
+Journal of Geophysical Research 111: D11101 (2006)
+
+http://onlinelibrary.wiley.com/doi/10.1029/2005JD006365/abstract
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/eddy-lake.pdf
+
+
+M. Pekkinen, S. Varvio, K. K. M. Kulju, H. Kärkkäinen, S. Smolander,
+A. Viherä-Aarnio, V. Koski and M. J. Sillanpää
+
+Linkage map of birch, <i>Betula pendula</i> Roth, based on microsatellites 
+and amplified fragment length polymorphisms
+
+Genome 48(4):619-625 (2005)
+
+http://www.nrcresearchpress.com/doi/abs/10.1139/g05-031
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/linkage_map_birch.pdf
+
+
+T. Vesala, T. Suni, Ü. Rannik, P. Keronen, T. Markkanen, S. Sevanto, T.
+Grönholm, S. Smolander, M. Kulmala, H. Ilvesniemi, R. Ojansuu, A. Uotila, 
+J. Levula, A. Mäkelä, J. Pumpanen, P. Kolari, L. Kulmala, N. Altimir, F. 
+Berninger, E. Nikinmaa and P. Hari
+
+The effect of thinning on surface fluxes in a boreal forest
+
+Global Biogeochemical Cycles 19(2): GB2001 (2005)
+
+http://onlinelibrary.wiley.com/doi/10.1029/2004GB002316/abstract
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/thinning.pdf
+
+
+S. Smolander and P. Stenberg
+
+Simple parameterizations of the radiation budget of uniform
+broadleaved and coniferous canopies
+
+Remote Sensing of Environment 94(3): 355-363 (2005)
+
+http://dx.doi.org/10.1016/j.rse.2004.10.010
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/radiation_budget.pdf
+
+
+J. I. Peltoniemi, S. Kaasalainen, J. Näränen, M. Rautiainen,
+P. Stenberg, H. Smolander, S. Smolander and P. Voipio
+
+BRDF measurement of understory vegetation in pine forests:
+dwarf shrubs, lichen, and moss.
+
+Remote Sensing of Environment 94(3): 343-354 (2005)
+
+http://dx.doi.org/10.1016/j.rse.2004.10.009
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/understory_brdf.pdf
+
+
+S. Smolander and P. Stenberg
+
+A method to account for shoot scale clumping in coniferous canopy reflectance models
+
+Remote Sensing of Environment 88(4): 363-373 (2003)
+
+http://dx.doi.org/10.1016/j.rse.2003.06.003
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/clumping.pdf
+
+
+S. Palmroth, P. Stenberg, S. Smolander, P. Voipio and H. Smolander
+
+Fertilization has little effect on light-interception efficiency
+of <i>Picea abies</i> shoots
+
+Tree Physiology 22(15/16): 1185-1192 (2002)
+
+http://treephys.oxfordjournals.org/content/22/15-16/1185.abstract?sid=a758f43c-51fb-4a36-9089-d0e7dd659aef
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/fertilization.pdf
+
+
+S. Smolander and P. Stenberg
+
+A method for estimating light interception by a conifer shoot
+
+Tree Physiology 21(12/13): 797-803 (2001)
+
+http://treephys.oxfordjournals.org/content/21/12-13/797.abstract?sid=a758f43c-51fb-4a36-9089-d0e7dd659aef
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/light_interception.pdf
+
+
+P. Stenberg, H. Smolander, D. Sprugel and S. Smolander
+
+Shoot structure, light interception and distribution of nitrogen in an <i>Abies amabilis</i> canopy
+
+Tree Physiology 18(11): 759-767 (1998)
+
+http://treephys.oxfordjournals.org/content/18/11/759.abstract?sid=a758f43c-51fb-4a36-9089-d0e7dd659aef
+
+http://www.cs.helsinki.fi/u/ssmoland/papers/shoot_structure.pdf

@@ -1,0 +1,27 @@
+    <tr>
+      <th colspan=2>
+        <h2>{{ header }}</h2>
+      </th>
+    </tr>
+    {% for paper in papers %}
+    <tr>
+      <td>
+        <ul>
+          <li class="num">{{ loop.revindex }}</li>
+          {% if paper.link %}
+          <li><a href="{{ paper.link }}">link</a></li>
+          {% endif %}
+          {% if paper.pdf %}
+          <li><a href="{{ paper.pdf }}">pdf</a></li>
+          {% endif %}
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>{{ paper.author }}</li>
+          <li>{{ paper.title }}</li>
+          <li>{{ paper.source }}</li>
+        </ul>
+      </td>
+    </tr>
+    {% endfor %}

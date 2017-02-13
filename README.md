@@ -2,15 +2,20 @@
 
 My list of publications + formatting script.
 
-Just run `make` to get formatted `index.html`.
+## Requirements
 
-The input is in the `.txt` files, and these files are listed in the beginning
-of the script. The record format is simple:
+Python3
+Python Jinja2
 
-authors,title,source,link,link to pdf
+## Generating a Site
 
-These fields are separated by one empty line, and records are separated by two
-empty lines. The link, and link to pdf, fields are optional. All formatting is
-specified by inline CSS in `1-top.html`, so you get one standalone html file.
+Run the process script with python to create an index.html.
+
+    ./process.py
+
+List of publications is stored in papers.json in a human readable format.
+
+template.html is the main site html and table.html is the code to help genearte
+the table body.
 
 If you'd like to use these scripts, you can under the BSD 2-clause license.

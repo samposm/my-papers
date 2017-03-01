@@ -1,4 +1,10 @@
 {
+  "Tags": {
+    "Articles in Refereed Journals": "",
+    "Book Chapters": "c",
+    "Reports": "r",
+    "Theses": "t"
+  },
   "Headers": {
     "Articles in Refereed Journals": [
       {

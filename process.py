@@ -12,8 +12,9 @@ with open('papers.json') as data:
     html = ""
     for item in d["Headers"]:
         header = item
+        tag = d["Tags"][item]
         papers = d["Headers"][item]
-        html += Environment(loader=FileSystemLoader(filepath)).get_template('table.html').render(header=header, papers=papers)
+        html += Environment(loader=FileSystemLoader(filepath)).get_template('table.html').render(header=header, papers=papers, tag=tag)
 
 with open("index.html", "w") as website:
     website.write(Environment(loader=FileSystemLoader(filepath)).get_template('template.html').render(date=datetime.date.today(), html=html))

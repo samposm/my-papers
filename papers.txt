@@ -1,3 +1,17 @@
+M. Raivonen, S. Smolander, L. Backman, J. Susiluoto, T. Aalto, T. Markkanen,
+J. Mäkelä, J. Rinne, O. Peltola, M. Aurela, A. Lohila, M. Tomasic, X. Li,
+T. Larmola, S. Juutinen, E.-S. Tuittila, M. Heimann, S. Sevanto, T. Kleinen,
+V. Brovkin and T. Vesala
+
+HIMMELI v1.0: HelsinkI Model of MEthane buiLd-up and emIssion for peatlands
+
+Geoscientific Model Development 10: 4665-4691 (2017)
+
+https://www.geosci-model-dev.net/10/4665/2017/
+
+https://www.geosci-model-dev.net/10/4665/2017/gmd-10-4665-2017.pdf
+
+
 L. Zhou, R. Gierens, A. Sogachev, D. Mogensen, J. Ortega, J. N. Smith,
 P. C. Harley, A. J. Prenni, E. J. T. Levin, A. Turnipseed, A. Rusanen,
 S. Smolander, A. B. Guenther, M. Kulmala, T. Karl and M. Boy
